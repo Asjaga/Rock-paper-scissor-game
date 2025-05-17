@@ -92,50 +92,57 @@ img {
 .reset:active {
     opacity: 0.4;
 }
+
 .copy {
-    position: fixed;       
-    bottom: 0;            
-    left: 0;              
-    width: 100%;          
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     font-size: 2rem;
     background-color: #3f51b5;
     text-align: center;
     color: white;
     height: 3rem;
     line-height: 3rem;
+}
 
+/* 🌐 Responsive Design */
 @media (max-width: 480px) {
     h1 {
-        font-size: 1.8rem;
-        height: 4.5rem;
+        font-size: 1.5rem;
+        height: 4rem;
         line-height: 4rem;
     }
+
     .choice {
         height: 100px;
         width: 100px;
     }
+
     img {
-        height: 100px;
-        width: 100px;
+        height: 90px;
+        width: 90px;
     }
+
     .score-board {
-        font-size: 1.5rem;
-        gap: 2rem;
+        font-size: 1.3rem;
+        gap: 1.5rem;
     }
+
     .size {
         font-size: 2rem;
     }
+
     .msg {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
     }
+
     .reset {
         width: 12rem;
-        font-size: 1.5rem;
+        font-size: 1.4rem;
     }
-     .copy {
-        font-size: 1.5rem;
-        margin-top: 0;  /* Remove margin on mobile too */
-    }
-}
 
+    .copy {
+        font-size: 1.2rem;
+    }
 }
