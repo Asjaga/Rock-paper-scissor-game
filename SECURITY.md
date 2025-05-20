@@ -15,7 +15,7 @@ The following versions of the Rock Paper Scissors game are currently supported w
 
 If you discover a security vulnerability in this project, please follow the process below:
 
-1. **Contact**: Report the vulnerability by emailing [your-email@example.com] or by creating a private GitHub issue if enabled.
+1. **Contact**: Report the vulnerability by emailing [aakashsinghjaga@gmail.com] or by creating a private GitHub issue if enabled.
 2. **Response Time**: You can expect a response within **3–5 business days**.
 3. **Process**:
    - After acknowledgment, we will investigate the report.
